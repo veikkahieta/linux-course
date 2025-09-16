@@ -1,6 +1,6 @@
 <h1>h4 Maailma kuulee</h1>
 
-##Tiivistelmä artikkelista [[1]](https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/):
+<h2>Tiivistelmä artikkelista [1](https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/):</h2>
 
 -Vuokraa ja asenna pilvipalvelin
 
@@ -16,7 +16,7 @@
 
 - Päivitä palvelimen ohjelmat
 
-<h2>Tiivistelmä artikkelista [[2]](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/):</h2>
+<h2>Tiivistelmä artikkelista [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/):</h2>
 
 - Aina vahvat salasanat
 
