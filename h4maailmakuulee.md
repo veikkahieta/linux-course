@@ -16,7 +16,7 @@
 
 - Päivitä palvelimen ohjelmat
 
-<h2>Tiivistelmä artikkelista [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/):</h2>
+<h2>Tiivistelmä artikkelista [[2]](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/):</h2>
 
 - Aina vahvat salasanat
 
@@ -55,7 +55,7 @@ Seuraavana siirryin tekemään alkutoimet virtuaalikoneelleni. Pääsin sisään
 Kuvakaappaus:
 <img width="1264" height="868" alt="image" src="https://github.com/user-attachments/assets/730553fb-de94-4634-94ee-778de45d20a8" />
 
-Seuraavana asennetaan palomuuri 'sudo apt-get install ufw', tehdään siihen reikä 'sudo ufw allow 22/tcp' sekä laitetaan se päälle 'sudo ufw enable'. [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
+Seuraavana asennetaan palomuuri 'sudo apt-get install ufw', tehdään siihen reikä 'sudo ufw allow 22/tcp' sekä laitetaan se päälle 'sudo ufw enable'. [[2]](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 Kuvakaappaus:
 <img width="1090" height="729" alt="image" src="https://github.com/user-attachments/assets/0eb5e5af-44ef-4e85-b6dd-57c769085d47" />
 
@@ -63,7 +63,7 @@ Seuraavana loin käyttäjän. Laitoin koko nimeksi "veikka"  ja muut kentät jä
 Kuvakaappaus:
 <img width="803" height="463" alt="image" src="https://github.com/user-attachments/assets/ca7d7082-22c9-41e0-95da-b129b49e7d83" />
 
-Tämän jälkeen annoin käyttäjälle oikeuksia 'sudo adduser veikka sudo' 'sudo adduser veikka adm' 'sudo adduser veikka admin'. Näistä viimeistä ei ole olemassa (admin). [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
+Tämän jälkeen annoin käyttäjälle oikeuksia 'sudo adduser veikka sudo' 'sudo adduser veikka adm' 'sudo adduser veikka admin'. Näistä viimeistä ei ole olemassa (admin). [[2]](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 Kuvakaappaus:
 <img width="809" height="505" alt="image" src="https://github.com/user-attachments/assets/70ad1925-f812-4493-a604-59f1d5b9ffd5" />
 
@@ -82,7 +82,7 @@ Latasin Apachen komennolla 'sudo apt-get install apache2. Tämän jälkeen tarki
 Kuvakaappaus:
 <img width="794" height="471" alt="image" src="https://github.com/user-attachments/assets/69695985-83b1-4a3d-ba92-566a9fafb9f7" />
 
-Tein reiän palomuuriin: [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
+Tein reiän palomuuriin: [[2]](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 <img width="797" height="90" alt="image" src="https://github.com/user-attachments/assets/8901a2c9-025f-4885-9af6-ae29bb8e5769" />
 
 Ajoin seuraavat komennot: 'echo Testi|sudo tee /var/www/html/index.html' sekä 'sudo systectl restart apache2'.
