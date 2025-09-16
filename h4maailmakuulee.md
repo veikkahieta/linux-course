@@ -1,6 +1,6 @@
 <h1>h4 Maailma kuulee</h1>
 
-##Tiivistelmä artikkelista [1](https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/):
+##Tiivistelmä artikkelista [[1]](https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/):
 
 -Vuokraa ja asenna pilvipalvelin
 
@@ -16,7 +16,7 @@
 
 - Päivitä palvelimen ohjelmat
 
-##Tiivistelmä artikkelista [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/):
+<h2>Tiivistelmä artikkelista [2](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/):</h2>
 
 - Aina vahvat salasanat
 
@@ -41,7 +41,7 @@
 - IP-osoitteen sijaan on kätevämpää käyttää verkkotunnusta
 
 
-##Virtuaalipalvelimen vuokraaminen sekä asennus
+<h2>Virtuaalipalvelimen vuokraaminen sekä asennus</h2>
 
 
 Vuokrasin virtuaalipalvelimen GitHub Educationin avulla DigitalOceanilta. Valitsin virtuaalipalvelimen käyttöjärjestelmäksi Debian 13. Valitsin tavallisen prosessorin SSD:llä, ja prosessorin kooksi valitsin 1GB sekä kovalevyn kooksi 25GB. Tämä oli toiseksi halvin vaihtoehto, jonka valitsin koska epäilin halvimman vaihtoehdon olevan mahdollisesti liian heikko spekseiltään.
@@ -90,7 +90,7 @@ Tämän jälkeen testasin avata sivun puhelimella Safarissa, sekä Windowsilla. 
 Kuvakaappaus:
 <img width="348" height="87" alt="image" src="https://github.com/user-attachments/assets/c00e1b07-a32a-4800-914e-df3a1882f14f" />
 
-##Lähteet
+<h2>Lähteet:</h2>
 Lehto, Susanna 2022: Teriasta käytäntöön pilvipalvelimen avulla [1]:
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/
 
