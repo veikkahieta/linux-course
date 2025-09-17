@@ -1,6 +1,6 @@
 <h1>h4 Maailma kuulee</h1>
 
-<h2>Tiivistelmä artikkelista "Teriasta käytäntöön pilvipalvelimen avulla" [1]:</h2>
+<h2>Tiivistelmä artikkelista "Teoriasta käytäntöön pilvipalvelimen avulla" [1]:</h2>
 
 -Vuokraa ja asenna pilvipalvelin
 
