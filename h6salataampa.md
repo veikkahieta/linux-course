@@ -48,6 +48,12 @@ Curl kuitenkin edelleen sanoo 404:
 <img width="964" height="224" alt="image" src="https://github.com/user-attachments/assets/b3fb57f3-0039-4d49-81b9-f3294e728474" />
 Tässä vaiheessa aika tehtävän suorittamiwseen loppui kesken. Muokkaan raporttia, kun ongelma on saatu ratkaistua.
 
+<h2>Lisäys:</h2>
+Lisäyksenä: Asensin Snap-kokonaisuuden ja yritin aktivoida Certbotin sitä kautta.
+Vastaus oli kuitenkin sama, kuin aiemminkin:
+Kuvakaappaus:
+<img width="1178" height="64" alt="image" src="https://github.com/user-attachments/assets/bdab80eb-a720-4a82-a8c6-7b66f57481fa" />
+
 
 <h2>Lähteet:</h2>
 
